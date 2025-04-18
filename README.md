@@ -13,7 +13,7 @@ Abdal ReportGen is a powerful multi-format HTML report generator developed by Eb
 - **🔄 Multi-format Support**: Process data from CSV, JSON, XML, Excel, and SQL files
 - **🎨 Beautiful Reports**: Generate responsive HTML reports with Bootstrap styling
 - **🌓 Dark Mode Support**: Built-in dark mode toggle for better readability
-- **📱 Mobile-Friendly**: Fully responsive design works on all devices
+- **📱 Report Mobile-Friendly**: Fully responsive design works on all devices
 - **🔍 Table Formatting**: Data presented in clean, sortable tables
 - **⏱️ Timestamped Output**: Each report is saved with a unique timestamp
 - **🛠️ Easy to Use**: Simple command-line interface
